@@ -6,13 +6,13 @@ A simple toolkit for comparing, simulating, and generating stock price data.
 ## Files
 
 - `plot_normalized_comparison.py`  
-  Compare two real stock/ETF tickers with normalized percentage plots.
+  Compare two real stock normalized percentage plots.
 
 - `plot_base_theoretical_3x.py`  
   Simulate a theoretical 3x leveraged version of a base asset and plot it.
 
 - `Stock_Price_Generator.js`  
-  Generate random stock price data for a fictional year (e.g., 3000).
+  Randomly generates one year of daily stock prices, with adjustable volatility.
 
   ## Data
 
